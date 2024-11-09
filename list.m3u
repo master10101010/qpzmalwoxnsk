@@ -2,17 +2,21 @@
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://180.175.163.27:7777/tsfile/live/0004_1.m3u8
+http://218.80.126.158:8880/udp/239.45.0.2:5140
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://183.166.118.188:8888/rtp/238.1.78.236:7760
+http://171.113.131.163:4022/rtp/239.69.1.138:10466
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
-http://180.175.163.27:7777/tsfile/live/0005_1.m3u8
+http://218.80.126.158:8880/udp/239.45.1.69:5140
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
-http://222.64.201.174:4000/udp/239.45.1.69:5140
+http://171.113.131.163:4022/rtp/239.69.1.123:10376
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
-http://180.175.163.27:7777/tsfile/live/0016_1.m3u8
+http://171.113.131.163:4022/rtp/239.254.96.234:9484
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
-http://180.175.163.27:7777/tsfile/live/0013_1.m3u8
+http://218.80.126.158:8880/udp/239.45.1.198:5140
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
+http://218.80.126.158:8880/udp/239.45.1.198:5140
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
+http://171.113.131.163:4022/rtp/239.254.96.161:9040
 #EXTINF:0,CCTV 1 HEVC
 http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=3
 #EXTINF:0,CCTV 2
