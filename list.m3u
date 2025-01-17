@@ -2,9 +2,11 @@
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://39.134.136.161:6610/000000001000/1000000002000031664/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000031664
+http://106.53.99.30/dl/bjyd.php?id=3
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://125.107.117.203:9901/tsfile/live/0004_1.m3u8
+http://extraott.com:80/live/6772191932/1654508883/191897.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
+http://115.239.64.234:9999/udp/233.50.200.101:5140
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://39.134.136.161:6610/000000001000/1000000005000265005/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265005
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
@@ -12,9 +14,9 @@ http://218.80.126.158:8880/udp/239.45.1.69:5140
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
 http://39.134.136.161:6610/000000001000/1000000005000265016/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265016
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
-http://39.134.136.161:6610/000000001000/5000000005000001827/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000005000001827
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-newssd/1500.m3u8?innersid=2025
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
-http://180.102.252.214:8000/rtp/239.49.1.13:6000
+http://106.53.99.30/dl/bjyd.php?id=9
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
 http://218.80.126.158:8880/udp/239.45.1.198:5140
 #EXTINF:0,CCTV 1 HEVC
