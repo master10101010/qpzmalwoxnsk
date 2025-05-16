@@ -1,0 +1,345 @@
+#EXTM3U
+#EXTINF:-1 channelID='302' tvg-num='29' tvg-chno='29' tvg-name='A&E USA' tvg-id='302' group-title='DaddyLive',A&E USA
+http://192.168.1.100:5004/DaddyLive/watch/302
+#EXTINF:-1 channelID='51' tvg-num='30' tvg-chno='30' tvg-name='ABC USA' tvg-id='51' group-title='DaddyLive',ABC USA
+http://192.168.1.100:5004/DaddyLive/watch/51
+#EXTINF:-1 channelID='766' tvg-num='31' tvg-chno='31' tvg-name='ABCNY USA' tvg-id='766' group-title='DaddyLive',ABCNY USA
+http://192.168.1.100:5004/DaddyLive/watch/766
+#EXTINF:-1 channelID='785' tvg-num='32' tvg-chno='32' tvg-name='ABS-CBN' tvg-id='785' group-title='DaddyLive',ABS-CBN
+http://192.168.1.100:5004/DaddyLive/watch/785
+#EXTINF:-1 channelID='664' tvg-num='38' tvg-chno='38' tvg-name='ACC Network USA' tvg-id='664' group-title='DaddyLive',ACC Network USA
+http://192.168.1.100:5004/DaddyLive/watch/664
+#EXTINF:-1 channelID='295' tvg-num='39' tvg-chno='39' tvg-name='Adult Swim' tvg-id='295' group-title='DaddyLive',Adult Swim
+http://192.168.1.100:5004/DaddyLive/watch/295
+#EXTINF:-1 channelID='303' tvg-num='45' tvg-chno='45' tvg-name='AMC USA' tvg-id='303' group-title='DaddyLive',AMC USA
+http://192.168.1.100:5004/DaddyLive/watch/303
+#EXTINF:-1 channelID='304' tvg-num='46' tvg-chno='46' tvg-name='Animal Planet' tvg-id='304' group-title='DaddyLive',Animal Planet
+http://192.168.1.100:5004/DaddyLive/watch/304
+#EXTINF:-1 channelID='742' tvg-num='67' tvg-chno='67' tvg-name='AXS TV USA' tvg-id='742' group-title='DaddyLive',AXS TV USA
+http://192.168.1.100:5004/DaddyLive/watch/742
+#EXTINF:-1 channelID='890' tvg-num='69' tvg-chno='69' tvg-name='Bally Sports Arizona' tvg-id='890' group-title='DaddyLive',Bally Sports Arizona
+http://192.168.1.100:5004/DaddyLive/watch/890
+#EXTINF:-1 channelID='891' tvg-num='70' tvg-chno='70' tvg-name='Bally Sports Detroit' tvg-id='891' group-title='DaddyLive',Bally Sports Detroit
+http://192.168.1.100:5004/DaddyLive/watch/891
+#EXTINF:-1 channelID='892' tvg-num='71' tvg-chno='71' tvg-name='Bally Sports Florida' tvg-id='892' group-title='DaddyLive',Bally Sports Florida
+http://192.168.1.100:5004/DaddyLive/watch/892
+#EXTINF:-1 channelID='893' tvg-num='72' tvg-chno='72' tvg-name='Bally Sports Great Lakes' tvg-id='893' group-title='DaddyLive',Bally Sports Great Lakes
+http://192.168.1.100:5004/DaddyLive/watch/893
+#EXTINF:-1 channelID='894' tvg-num='73' tvg-chno='73' tvg-name='Bally Sports Indiana' tvg-id='894' group-title='DaddyLive',Bally Sports Indiana
+http://192.168.1.100:5004/DaddyLive/watch/894
+#EXTINF:-1 channelID='895' tvg-num='74' tvg-chno='74' tvg-name='Bally Sports Kansas City' tvg-id='895' group-title='DaddyLive',Bally Sports Kansas City
+http://192.168.1.100:5004/DaddyLive/watch/895
+#EXTINF:-1 channelID='896' tvg-num='75' tvg-chno='75' tvg-name='Bally Sports Midwest' tvg-id='896' group-title='DaddyLive',Bally Sports Midwest
+http://192.168.1.100:5004/DaddyLive/watch/896
+#EXTINF:-1 channelID='897' tvg-num='76' tvg-chno='76' tvg-name='Bally Sports New Orleans' tvg-id='897' group-title='DaddyLive',Bally Sports New Orleans
+http://192.168.1.100:5004/DaddyLive/watch/897
+#EXTINF:-1 channelID='898' tvg-num='77' tvg-chno='77' tvg-name='Bally Sports North' tvg-id='898' group-title='DaddyLive',Bally Sports North
+http://192.168.1.100:5004/DaddyLive/watch/898
+#EXTINF:-1 channelID='899' tvg-num='78' tvg-chno='78' tvg-name='Bally Sports Ohio' tvg-id='899' group-title='DaddyLive',Bally Sports Ohio
+http://192.168.1.100:5004/DaddyLive/watch/899
+#EXTINF:-1 channelID='900' tvg-num='79' tvg-chno='79' tvg-name='Bally Sports Oklahoma' tvg-id='900' group-title='DaddyLive',Bally Sports Oklahoma
+http://192.168.1.100:5004/DaddyLive/watch/900
+#EXTINF:-1 channelID='901' tvg-num='80' tvg-chno='80' tvg-name='Bally Sports San Diego' tvg-id='901' group-title='DaddyLive',Bally Sports San Diego
+http://192.168.1.100:5004/DaddyLive/watch/901
+#EXTINF:-1 channelID='902' tvg-num='81' tvg-chno='81' tvg-name='Bally Sports SoCal' tvg-id='902' group-title='DaddyLive',Bally Sports SoCal
+http://192.168.1.100:5004/DaddyLive/watch/902
+#EXTINF:-1 channelID='903' tvg-num='82' tvg-chno='82' tvg-name='Bally Sports South' tvg-id='903' group-title='DaddyLive',Bally Sports South
+http://192.168.1.100:5004/DaddyLive/watch/903
+#EXTINF:-1 channelID='904' tvg-num='83' tvg-chno='83' tvg-name='Bally Sports Southeast' tvg-id='904' group-title='DaddyLive',Bally Sports Southeast
+http://192.168.1.100:5004/DaddyLive/watch/904
+#EXTINF:-1 channelID='905' tvg-num='84' tvg-chno='84' tvg-name='Bally Sports Sun' tvg-id='905' group-title='DaddyLive',Bally Sports Sun
+http://192.168.1.100:5004/DaddyLive/watch/905
+#EXTINF:-1 channelID='906' tvg-num='85' tvg-chno='85' tvg-name='Bally Sports West' tvg-id='906' group-title='DaddyLive',Bally Sports West
+http://192.168.1.100:5004/DaddyLive/watch/906
+#EXTINF:-1 channelID='907' tvg-num='86' tvg-chno='86' tvg-name='Bally Sports Wisconsin' tvg-id='907' group-title='DaddyLive',Bally Sports Wisconsin
+http://192.168.1.100:5004/DaddyLive/watch/907
+#EXTINF:-1 channelID='305' tvg-num='90' tvg-chno='90' tvg-name='BBC America (BBCA)' tvg-id='305' group-title='DaddyLive',BBC America (BBCA)
+http://192.168.1.100:5004/DaddyLive/watch/305
+#EXTINF:-1 channelID='349' tvg-num='92' tvg-chno='92' tvg-name='BBC News Channel HD' tvg-id='349' group-title='DaddyLive',BBC News Channel HD
+http://192.168.1.100:5004/DaddyLive/watch/349
+#EXTINF:-1 channelID='306' tvg-num='131' tvg-chno='131' tvg-name='BET USA' tvg-id='306' group-title='DaddyLive',BET USA
+http://192.168.1.100:5004/DaddyLive/watch/306
+#EXTINF:-1 channelID='397' tvg-num='132' tvg-chno='132' tvg-name='BIG TEN Network (BTN USA)' tvg-id='397' group-title='DaddyLive',BIG TEN Network (BTN USA)
+http://192.168.1.100:5004/DaddyLive/watch/397
+#EXTINF:-1 channelID='307' tvg-num='138' tvg-chno='138' tvg-name='Bravo USA' tvg-id='307' group-title='DaddyLive',Bravo USA
+http://192.168.1.100:5004/DaddyLive/watch/307
+#EXTINF:-1 channelID='339' tvg-num='167' tvg-chno='167' tvg-name='Cartoon Network' tvg-id='339' group-title='DaddyLive',Cartoon Network
+http://192.168.1.100:5004/DaddyLive/watch/339
+#EXTINF:-1 channelID='308' tvg-num='171' tvg-chno='171' tvg-name='CBS Sports Network (CBSSN)' tvg-id='308' group-title='DaddyLive',CBS Sports Network (CBSSN)
+http://192.168.1.100:5004/DaddyLive/watch/308
+#EXTINF:-1 channelID='52' tvg-num='172' tvg-chno='172' tvg-name='CBS USA' tvg-id='52' group-title='DaddyLive',CBS USA
+http://192.168.1.100:5004/DaddyLive/watch/52
+#EXTINF:-1 channelID='767' tvg-num='173' tvg-chno='173' tvg-name='CBSNY USA' tvg-id='767' group-title='DaddyLive',CBSNY USA
+http://192.168.1.100:5004/DaddyLive/watch/767
+#EXTINF:-1 channelID='374' tvg-num='182' tvg-chno='182' tvg-name='Cinemax USA' tvg-id='374' group-title='DaddyLive',Cinemax USA
+http://192.168.1.100:5004/DaddyLive/watch/374
+#EXTINF:-1 channelID='647' tvg-num='185' tvg-chno='185' tvg-name='CMT USA' tvg-id='647' group-title='DaddyLive',CMT USA
+http://192.168.1.100:5004/DaddyLive/watch/647
+#EXTINF:-1 channelID='309' tvg-num='187' tvg-chno='187' tvg-name='CNBC USA' tvg-id='309' group-title='DaddyLive',CNBC USA
+http://192.168.1.100:5004/DaddyLive/watch/309
+#EXTINF:-1 channelID='345' tvg-num='188' tvg-chno='188' tvg-name='CNN USA' tvg-id='345' group-title='DaddyLive',CNN USA
+http://192.168.1.100:5004/DaddyLive/watch/345
+#EXTINF:-1 channelID='310' tvg-num='190' tvg-chno='190' tvg-name='Comedy Central' tvg-id='310' group-title='DaddyLive',Comedy Central
+http://192.168.1.100:5004/DaddyLive/watch/310
+#EXTINF:-1 channelID='696' tvg-num='191' tvg-chno='191' tvg-name='Comet USA' tvg-id='696' group-title='DaddyLive',Comet USA
+http://192.168.1.100:5004/DaddyLive/watch/696
+#EXTINF:-1 channelID='697' tvg-num='192' tvg-chno='192' tvg-name='Cooking Channel USA' tvg-id='697' group-title='DaddyLive',Cooking Channel USA
+http://192.168.1.100:5004/DaddyLive/watch/697
+#EXTINF:-1 channelID='281' tvg-num='202' tvg-chno='202' tvg-name='Court TV USA' tvg-id='281' group-title='DaddyLive',Court TV USA
+http://192.168.1.100:5004/DaddyLive/watch/281
+#EXTINF:-1 channelID='748' tvg-num='203' tvg-chno='203' tvg-name='COZI TV USA' tvg-id='748' group-title='DaddyLive',COZI TV USA
+http://192.168.1.100:5004/DaddyLive/watch/748
+#EXTINF:-1 channelID='602' tvg-num='206' tvg-chno='206' tvg-name='CTV Canada' tvg-id='602' group-title='DaddyLive',CTV Canada
+http://192.168.1.100:5004/DaddyLive/watch/602
+#EXTINF:-1 channelID='280' tvg-num='208' tvg-chno='208' tvg-name='CW PIX 11 USA' tvg-id='280' group-title='DaddyLive',CW PIX 11 USA
+http://192.168.1.100:5004/DaddyLive/watch/280
+#EXTINF:-1 channelID='300' tvg-num='209' tvg-chno='209' tvg-name='CW USA' tvg-id='300' group-title='DaddyLive',CW USA
+http://192.168.1.100:5004/DaddyLive/watch/300
+#EXTINF:-1 channelID='313' tvg-num='237' tvg-chno='237' tvg-name='Discovery Channel' tvg-id='313' group-title='DaddyLive',Discovery Channel
+http://192.168.1.100:5004/DaddyLive/watch/313
+#EXTINF:-1 channelID='657' tvg-num='238' tvg-chno='238' tvg-name='Discovery Family' tvg-id='657' group-title='DaddyLive',Discovery Family
+http://192.168.1.100:5004/DaddyLive/watch/657
+#EXTINF:-1 channelID='311' tvg-num='239' tvg-chno='239' tvg-name='Discovery Life Channel' tvg-id='311' group-title='DaddyLive',Discovery Life Channel
+http://192.168.1.100:5004/DaddyLive/watch/311
+#EXTINF:-1 channelID='285' tvg-num='240' tvg-chno='240' tvg-name='Discovery Velocity CA' tvg-id='285' group-title='DaddyLive',Discovery Velocity CA
+http://192.168.1.100:5004/DaddyLive/watch/285
+#EXTINF:-1 channelID='312' tvg-num='241' tvg-chno='241' tvg-name='Disney Channel' tvg-id='312' group-title='DaddyLive',Disney Channel
+http://192.168.1.100:5004/DaddyLive/watch/312
+#EXTINF:-1 channelID='652' tvg-num='242' tvg-chno='242' tvg-name='Disney JR' tvg-id='652' group-title='DaddyLive',Disney JR
+http://192.168.1.100:5004/DaddyLive/watch/652
+#EXTINF:-1 channelID='314' tvg-num='243' tvg-chno='243' tvg-name='Disney XD' tvg-id='314' group-title='DaddyLive',Disney XD
+http://192.168.1.100:5004/DaddyLive/watch/314
+#EXTINF:-1 channelID='315' tvg-num='254' tvg-chno='254' tvg-name='E! Entertainment Television' tvg-id='315' group-title='DaddyLive',E! Entertainment Television
+http://192.168.1.100:5004/DaddyLive/watch/315
+#EXTINF:-1 channelID='44' tvg-num='272' tvg-chno='272' tvg-name='ESPN USA' tvg-id='44' group-title='DaddyLive',ESPN USA
+http://192.168.1.100:5004/DaddyLive/watch/44
+#EXTINF:-1 channelID='45' tvg-num='275' tvg-chno='275' tvg-name='ESPN2 USA' tvg-id='45' group-title='DaddyLive',ESPN2 USA
+http://192.168.1.100:5004/DaddyLive/watch/45
+#EXTINF:-1 channelID='288' tvg-num='278' tvg-chno='278' tvg-name='ESPNews' tvg-id='288' group-title='DaddyLive',ESPNews
+http://192.168.1.100:5004/DaddyLive/watch/288
+#EXTINF:-1 channelID='316' tvg-num='279' tvg-chno='279' tvg-name='ESPNU USA' tvg-id='316' group-title='DaddyLive',ESPNU USA
+http://192.168.1.100:5004/DaddyLive/watch/316
+#EXTINF:-1 channelID='744' tvg-num='292' tvg-chno='292' tvg-name='Fashion TV' tvg-id='744' group-title='DaddyLive',Fashion TV
+http://192.168.1.100:5004/DaddyLive/watch/744
+#EXTINF:-1 channelID='384' tvg-num='297' tvg-chno='297' tvg-name='Food Network' tvg-id='384' group-title='DaddyLive',Food Network
+http://192.168.1.100:5004/DaddyLive/watch/384
+#EXTINF:-1 channelID='297' tvg-num='298' tvg-chno='298' tvg-name='Fox Business' tvg-id='297' group-title='DaddyLive',Fox Business
+http://192.168.1.100:5004/DaddyLive/watch/297
+#EXTINF:-1 channelID='643' tvg-num='300' tvg-chno='300' tvg-name='FOX Deportes USA' tvg-id='643' group-title='DaddyLive',FOX Deportes USA
+http://192.168.1.100:5004/DaddyLive/watch/643
+#EXTINF:-1 channelID='347' tvg-num='302' tvg-chno='302' tvg-name='Fox News' tvg-id='347' group-title='DaddyLive',Fox News
+http://192.168.1.100:5004/DaddyLive/watch/347
+#EXTINF:-1 channelID='756' tvg-num='303' tvg-chno='303' tvg-name='FOX Soccer Plus' tvg-id='756' group-title='DaddyLive',FOX Soccer Plus
+http://192.168.1.100:5004/DaddyLive/watch/756
+#EXTINF:-1 channelID='39' tvg-num='304' tvg-chno='304' tvg-name='Fox Sports 1 USA' tvg-id='39' group-title='DaddyLive',Fox Sports 1 USA
+http://192.168.1.100:5004/DaddyLive/watch/39
+#EXTINF:-1 channelID='758' tvg-num='306' tvg-chno='306' tvg-name='Fox Sports 2 USA' tvg-id='758' group-title='DaddyLive',Fox Sports 2 USA
+http://192.168.1.100:5004/DaddyLive/watch/758
+#EXTINF:-1 channelID='54' tvg-num='315' tvg-chno='315' tvg-name='FOX USA' tvg-id='54' group-title='DaddyLive',FOX USA
+http://192.168.1.100:5004/DaddyLive/watch/54
+#EXTINF:-1 channelID='775' tvg-num='316' tvg-chno='316' tvg-name='Fox Weather Channel' tvg-id='775' group-title='DaddyLive',Fox Weather Channel
+http://192.168.1.100:5004/DaddyLive/watch/775
+#EXTINF:-1 channelID='768' tvg-num='317' tvg-chno='317' tvg-name='FOXNY USA' tvg-id='768' group-title='DaddyLive',FOXNY USA
+http://192.168.1.100:5004/DaddyLive/watch/768
+#EXTINF:-1 channelID='301' tvg-num='318' tvg-chno='318' tvg-name='Freeform' tvg-id='301' group-title='DaddyLive',Freeform
+http://192.168.1.100:5004/DaddyLive/watch/301
+#EXTINF:-1 channelID='279' tvg-num='319' tvg-chno='319' tvg-name='FUSE TV USA' tvg-id='279' group-title='DaddyLive',FUSE TV USA
+http://192.168.1.100:5004/DaddyLive/watch/279
+#EXTINF:-1 channelID='381' tvg-num='320' tvg-chno='320' tvg-name='FX Movie Channel' tvg-id='381' group-title='DaddyLive',FX Movie Channel
+http://192.168.1.100:5004/DaddyLive/watch/381
+#EXTINF:-1 channelID='317' tvg-num='321' tvg-chno='321' tvg-name='FX USA' tvg-id='317' group-title='DaddyLive',FX USA
+http://192.168.1.100:5004/DaddyLive/watch/317
+#EXTINF:-1 channelID='298' tvg-num='322' tvg-chno='322' tvg-name='FXX USA' tvg-id='298' group-title='DaddyLive',FXX USA
+http://192.168.1.100:5004/DaddyLive/watch/298
+#EXTINF:-1 channelID='319' tvg-num='325' tvg-chno='325' tvg-name='Game Show Network' tvg-id='319' group-title='DaddyLive',Game Show Network
+http://192.168.1.100:5004/DaddyLive/watch/319
+#EXTINF:-1 channelID='318' tvg-num='332' tvg-chno='332' tvg-name='GOLF Channel USA' tvg-id='318' group-title='DaddyLive',GOLF Channel USA
+http://192.168.1.100:5004/DaddyLive/watch/318
+#EXTINF:-1 channelID='320' tvg-num='334' tvg-chno='334' tvg-name='Hallmark Channel' tvg-id='320' group-title='DaddyLive',Hallmark Channel
+http://192.168.1.100:5004/DaddyLive/watch/320
+#EXTINF:-1 channelID='296' tvg-num='335' tvg-chno='335' tvg-name='Hallmark Movies & Mysterie' tvg-id='296' group-title='DaddyLive',Hallmark Movies & Mysterie
+http://192.168.1.100:5004/DaddyLive/watch/296
+#EXTINF:-1 channelID='690' tvg-num='336' tvg-chno='336' tvg-name='HBO Comedy USA' tvg-id='690' group-title='DaddyLive',HBO Comedy USA
+http://192.168.1.100:5004/DaddyLive/watch/690
+#EXTINF:-1 channelID='691' tvg-num='337' tvg-chno='337' tvg-name='HBO Family USA' tvg-id='691' group-title='DaddyLive',HBO Family USA
+http://192.168.1.100:5004/DaddyLive/watch/691
+#EXTINF:-1 channelID='693' tvg-num='340' tvg-chno='340' tvg-name='HBO Signature USA' tvg-id='693' group-title='DaddyLive',HBO Signature USA
+http://192.168.1.100:5004/DaddyLive/watch/693
+#EXTINF:-1 channelID='321' tvg-num='341' tvg-chno='341' tvg-name='HBO USA' tvg-id='321' group-title='DaddyLive',HBO USA
+http://192.168.1.100:5004/DaddyLive/watch/321
+#EXTINF:-1 channelID='694' tvg-num='342' tvg-chno='342' tvg-name='HBO Zone USA' tvg-id='694' group-title='DaddyLive',HBO Zone USA
+http://192.168.1.100:5004/DaddyLive/watch/694
+#EXTINF:-1 channelID='689' tvg-num='343' tvg-chno='343' tvg-name='HBO2 USA' tvg-id='689' group-title='DaddyLive',HBO2 USA
+http://192.168.1.100:5004/DaddyLive/watch/689
+#EXTINF:-1 channelID='323' tvg-num='344' tvg-chno='344' tvg-name='Headline News' tvg-id='323' group-title='DaddyLive',Headline News
+http://192.168.1.100:5004/DaddyLive/watch/323
+#EXTINF:-1 channelID='382' tvg-num='345' tvg-chno='345' tvg-name='HGTV' tvg-id='382' group-title='DaddyLive',HGTV
+http://192.168.1.100:5004/DaddyLive/watch/382
+#EXTINF:-1 channelID='322' tvg-num='346' tvg-chno='346' tvg-name='History USA' tvg-id='322' group-title='DaddyLive',History USA
+http://192.168.1.100:5004/DaddyLive/watch/322
+#EXTINF:-1 channelID='324' tvg-num='350' tvg-chno='350' tvg-name='Investigation Discovery (ID USA)' tvg-id='324' group-title='DaddyLive',Investigation Discovery (ID USA)
+http://192.168.1.100:5004/DaddyLive/watch/324
+#EXTINF:-1 channelID='325' tvg-num='351' tvg-chno='351' tvg-name='ION USA' tvg-id='325' group-title='DaddyLive',ION USA
+http://192.168.1.100:5004/DaddyLive/watch/325
+#EXTINF:-1 channelID='278' tvg-num='366' tvg-chno='366' tvg-name='Law & Crime Network' tvg-id='278' group-title='DaddyLive',Law & Crime Network
+http://192.168.1.100:5004/DaddyLive/watch/278
+#EXTINF:-1 channelID='389' tvg-num='367' tvg-chno='367' tvg-name='Lifetime Movies Network' tvg-id='389' group-title='DaddyLive',Lifetime Movies Network
+http://192.168.1.100:5004/DaddyLive/watch/389
+#EXTINF:-1 channelID='326' tvg-num='368' tvg-chno='368' tvg-name='Lifetime Network' tvg-id='326' group-title='DaddyLive',Lifetime Network
+http://192.168.1.100:5004/DaddyLive/watch/326
+#EXTINF:-1 channelID='667' tvg-num='370' tvg-chno='370' tvg-name='Longhorn Network USA' tvg-id='667' group-title='DaddyLive',Longhorn Network USA
+http://192.168.1.100:5004/DaddyLive/watch/667
+#EXTINF:-1 channelID='829' tvg-num='373' tvg-chno='373' tvg-name='MASN USA' tvg-id='829' group-title='DaddyLive',MASN USA
+http://192.168.1.100:5004/DaddyLive/watch/829
+#EXTINF:-1 channelID='646' tvg-num='379' tvg-chno='379' tvg-name='MAVTV USA' tvg-id='646' group-title='DaddyLive',MAVTV USA
+http://192.168.1.100:5004/DaddyLive/watch/646
+#EXTINF:-1 channelID='662' tvg-num='387' tvg-chno='387' tvg-name='METV USA' tvg-id='662' group-title='DaddyLive',METV USA
+http://192.168.1.100:5004/DaddyLive/watch/662
+#EXTINF:-1 channelID='791' tvg-num='388' tvg-chno='388' tvg-name='MGM+ USA / Epix' tvg-id='791' group-title='DaddyLive',MGM+ USA / Epix
+http://192.168.1.100:5004/DaddyLive/watch/791
+#EXTINF:-1 channelID='924' tvg-num='390' tvg-chno='390' tvg-name='Monumental Sports Network' tvg-id='924' group-title='DaddyLive',Monumental Sports Network
+http://192.168.1.100:5004/DaddyLive/watch/924
+#EXTINF:-1 channelID='765' tvg-num='401' tvg-chno='401' tvg-name='MSG USA' tvg-id='765' group-title='DaddyLive',MSG USA
+http://192.168.1.100:5004/DaddyLive/watch/765
+#EXTINF:-1 channelID='327' tvg-num='402' tvg-chno='402' tvg-name='MSNBC' tvg-id='327' group-title='DaddyLive',MSNBC
+http://192.168.1.100:5004/DaddyLive/watch/327
+#EXTINF:-1 channelID='371' tvg-num='405' tvg-chno='405' tvg-name='MTV USA' tvg-id='371' group-title='DaddyLive',MTV USA
+http://192.168.1.100:5004/DaddyLive/watch/371
+#EXTINF:-1 channelID='654' tvg-num='408' tvg-chno='408' tvg-name='MY9TV USA' tvg-id='654' group-title='DaddyLive',MY9TV USA
+http://192.168.1.100:5004/DaddyLive/watch/654
+#EXTINF:-1 channelID='745' tvg-num='409' tvg-chno='409' tvg-name='Nat Geo Wild USA' tvg-id='745' group-title='DaddyLive',Nat Geo Wild USA
+http://192.168.1.100:5004/DaddyLive/watch/745
+#EXTINF:-1 channelID='328' tvg-num='410' tvg-chno='410' tvg-name='National Geographic (NGC)' tvg-id='328' group-title='DaddyLive',National Geographic (NGC)
+http://192.168.1.100:5004/DaddyLive/watch/328
+#EXTINF:-1 channelID='404' tvg-num='411' tvg-chno='411' tvg-name='NBA TV USA' tvg-id='404' group-title='DaddyLive',NBA TV USA
+http://192.168.1.100:5004/DaddyLive/watch/404
+#EXTINF:-1 channelID='753' tvg-num='412' tvg-chno='412' tvg-name='NBC Sports Bay Area' tvg-id='753' group-title='DaddyLive',NBC Sports Bay Area
+http://192.168.1.100:5004/DaddyLive/watch/753
+#EXTINF:-1 channelID='754' tvg-num='413' tvg-chno='413' tvg-name='NBC Sports Boston' tvg-id='754' group-title='DaddyLive',NBC Sports Boston
+http://192.168.1.100:5004/DaddyLive/watch/754
+#EXTINF:-1 channelID='755' tvg-num='414' tvg-chno='414' tvg-name='NBC Sports California' tvg-id='755' group-title='DaddyLive',NBC Sports California
+http://192.168.1.100:5004/DaddyLive/watch/755
+#EXTINF:-1 channelID='776' tvg-num='415' tvg-chno='415' tvg-name='NBC Sports Chicago' tvg-id='776' group-title='DaddyLive',NBC Sports Chicago
+http://192.168.1.100:5004/DaddyLive/watch/776
+#EXTINF:-1 channelID='777' tvg-num='416' tvg-chno='416' tvg-name='NBC Sports Philadelphia' tvg-id='777' group-title='DaddyLive',NBC Sports Philadelphia
+http://192.168.1.100:5004/DaddyLive/watch/777
+#EXTINF:-1 channelID='778' tvg-num='417' tvg-chno='417' tvg-name='NBC Sports Washington' tvg-id='778' group-title='DaddyLive',NBC Sports Washington
+http://192.168.1.100:5004/DaddyLive/watch/778
+#EXTINF:-1 channelID='53' tvg-num='418' tvg-chno='418' tvg-name='NBC USA' tvg-id='53' group-title='DaddyLive',NBC USA
+http://192.168.1.100:5004/DaddyLive/watch/53
+#EXTINF:-1 channelID='277' tvg-num='419' tvg-chno='419' tvg-name='NBC10 Philadelphia' tvg-id='277' group-title='DaddyLive',NBC10 Philadelphia
+http://192.168.1.100:5004/DaddyLive/watch/277
+#EXTINF:-1 channelID='769' tvg-num='420' tvg-chno='420' tvg-name='NBCNY USA' tvg-id='769' group-title='DaddyLive',NBCNY USA
+http://192.168.1.100:5004/DaddyLive/watch/769
+#EXTINF:-1 channelID='762' tvg-num='422' tvg-chno='422' tvg-name='NESN USA' tvg-id='762' group-title='DaddyLive',NESN USA
+http://192.168.1.100:5004/DaddyLive/watch/762
+#EXTINF:-1 channelID='771' tvg-num='423' tvg-chno='423' tvg-name='New! CWPIX 11' tvg-id='771' group-title='DaddyLive',New! CWPIX 11
+http://192.168.1.100:5004/DaddyLive/watch/771
+#EXTINF:-1 channelID='613' tvg-num='424' tvg-chno='424' tvg-name='Newsmax USA' tvg-id='613' group-title='DaddyLive',Newsmax USA
+http://192.168.1.100:5004/DaddyLive/watch/613
+#EXTINF:-1 channelID='405' tvg-num='425' tvg-chno='425' tvg-name='NFL Network' tvg-id='405' group-title='DaddyLive',NFL Network
+http://192.168.1.100:5004/DaddyLive/watch/405
+#EXTINF:-1 channelID='663' tvg-num='426' tvg-chno='426' tvg-name='NHL Network USA' tvg-id='663' group-title='DaddyLive',NHL Network USA
+http://192.168.1.100:5004/DaddyLive/watch/663
+#EXTINF:-1 channelID='330' tvg-num='427' tvg-chno='427' tvg-name='NICK' tvg-id='330' group-title='DaddyLive',NICK
+http://192.168.1.100:5004/DaddyLive/watch/330
+#EXTINF:-1 channelID='329' tvg-num='428' tvg-chno='428' tvg-name='NICK JR' tvg-id='329' group-title='DaddyLive',NICK JR
+http://192.168.1.100:5004/DaddyLive/watch/329
+#EXTINF:-1 channelID='649' tvg-num='429' tvg-chno='429' tvg-name='Nicktoons' tvg-id='649' group-title='DaddyLive',Nicktoons
+http://192.168.1.100:5004/DaddyLive/watch/649
+#EXTINF:-1 channelID='331' tvg-num='448' tvg-chno='448' tvg-name='Oprah Winfrey Network (OWN)' tvg-id='331' group-title='DaddyLive',Oprah Winfrey Network (OWN)
+http://192.168.1.100:5004/DaddyLive/watch/331
+#EXTINF:-1 channelID='332' tvg-num='453' tvg-chno='453' tvg-name='Oxygen True Crime' tvg-id='332' group-title='DaddyLive',Oxygen True Crime
+http://192.168.1.100:5004/DaddyLive/watch/332
+#EXTINF:-1 channelID='287' tvg-num='454' tvg-chno='454' tvg-name='Pac-12 Network USA' tvg-id='287' group-title='DaddyLive',Pac-12 Network USA
+http://192.168.1.100:5004/DaddyLive/watch/287
+#EXTINF:-1 channelID='334' tvg-num='455' tvg-chno='455' tvg-name='Paramount Network' tvg-id='334' group-title='DaddyLive',Paramount Network
+http://192.168.1.100:5004/DaddyLive/watch/334
+#EXTINF:-1 channelID='210' tvg-num='456' tvg-chno='456' tvg-name='PBS USA USA' tvg-id='210' group-title='DaddyLive',PBS USA USA
+http://192.168.1.100:5004/DaddyLive/watch/210
+#EXTINF:-1 channelID='653' tvg-num='463' tvg-chno='463' tvg-name='POP TV USA' tvg-id='653' group-title='DaddyLive',POP TV USA
+http://192.168.1.100:5004/DaddyLive/watch/653
+#EXTINF:-1 channelID='294' tvg-num='499' tvg-chno='499' tvg-name='Science Channel' tvg-id='294' group-title='DaddyLive',Science Channel
+http://192.168.1.100:5004/DaddyLive/watch/294
+#EXTINF:-1 channelID='385' tvg-num='500' tvg-chno='500' tvg-name='SEC Network USA' tvg-id='385' group-title='DaddyLive',SEC Network USA
+http://192.168.1.100:5004/DaddyLive/watch/385
+#EXTINF:-1 channelID='792' tvg-num='502' tvg-chno='502' tvg-name='Showtime 2 USA (SHO2) USA' tvg-id='792' group-title='DaddyLive',Showtime 2 USA (SHO2) USA
+http://192.168.1.100:5004/DaddyLive/watch/792
+#EXTINF:-1 channelID='794' tvg-num='503' tvg-chno='503' tvg-name='Showtime Extreme USA' tvg-id='794' group-title='DaddyLive',Showtime Extreme USA
+http://192.168.1.100:5004/DaddyLive/watch/794
+#EXTINF:-1 channelID='795' tvg-num='504' tvg-chno='504' tvg-name='Showtime Family Zone (SHO Family Zone) USA' tvg-id='795' group-title='DaddyLive',Showtime Family Zone (SHO Family Zone) USA
+http://192.168.1.100:5004/DaddyLive/watch/795
+#EXTINF:-1 channelID='796' tvg-num='505' tvg-chno='505' tvg-name='Showtime Next (SHO Next) USA' tvg-id='796' group-title='DaddyLive',Showtime Next (SHO Next) USA
+http://192.168.1.100:5004/DaddyLive/watch/796
+#EXTINF:-1 channelID='793' tvg-num='506' tvg-chno='506' tvg-name='Showtime Showcase USA' tvg-id='793' group-title='DaddyLive',Showtime Showcase USA
+http://192.168.1.100:5004/DaddyLive/watch/793
+#EXTINF:-1 channelID='333' tvg-num='507' tvg-chno='507' tvg-name='Showtime USA' tvg-id='333' group-title='DaddyLive',Showtime USA
+http://192.168.1.100:5004/DaddyLive/watch/333
+#EXTINF:-1 channelID='797' tvg-num='508' tvg-chno='508' tvg-name='Showtime Women USA' tvg-id='797' group-title='DaddyLive',Showtime Women USA
+http://192.168.1.100:5004/DaddyLive/watch/797
+#EXTINF:-1 channelID='764' tvg-num='584' tvg-chno='584' tvg-name='Spectrum Sportsnet LA' tvg-id='764' group-title='DaddyLive',Spectrum Sportsnet LA
+http://192.168.1.100:5004/DaddyLive/watch/764
+#EXTINF:-1 channelID='408' tvg-num='610' tvg-chno='610' tvg-name='Sportsnet East' tvg-id='408' group-title='DaddyLive',Sportsnet East
+http://192.168.1.100:5004/DaddyLive/watch/408
+#EXTINF:-1 channelID='759' tvg-num='611' tvg-chno='611' tvg-name='SportsNet New York (SNY)' tvg-id='759' group-title='DaddyLive',SportsNet New York (SNY)
+http://192.168.1.100:5004/DaddyLive/watch/759
+#EXTINF:-1 channelID='922' tvg-num='614' tvg-chno='614' tvg-name='SportsNet Pittsburgh' tvg-id='922' group-title='DaddyLive',SportsNet Pittsburgh
+http://192.168.1.100:5004/DaddyLive/watch/922
+#EXTINF:-1 channelID='407' tvg-num='615' tvg-chno='615' tvg-name='Sportsnet West' tvg-id='407' group-title='DaddyLive',Sportsnet West
+http://192.168.1.100:5004/DaddyLive/watch/407
+#EXTINF:-1 channelID='335' tvg-num='631' tvg-chno='631' tvg-name='Starz' tvg-id='335' group-title='DaddyLive',Starz
+http://192.168.1.100:5004/DaddyLive/watch/335
+#EXTINF:-1 channelID='373' tvg-num='654' tvg-chno='654' tvg-name='SYFY USA' tvg-id='373' group-title='DaddyLive',SYFY USA
+http://192.168.1.100:5004/DaddyLive/watch/373
+#EXTINF:-1 channelID='336' tvg-num='656' tvg-chno='656' tvg-name='TBS USA' tvg-id='336' group-title='DaddyLive',TBS USA
+http://192.168.1.100:5004/DaddyLive/watch/336
+#EXTINF:-1 channelID='644' tvg-num='657' tvg-chno='657' tvg-name='TCM USA' tvg-id='644' group-title='DaddyLive',TCM USA
+http://192.168.1.100:5004/DaddyLive/watch/644
+#EXTINF:-1 channelID='650' tvg-num='658' tvg-chno='658' tvg-name='TeenNick' tvg-id='650' group-title='DaddyLive',TeenNick
+http://192.168.1.100:5004/DaddyLive/watch/650
+#EXTINF:-1 channelID='131' tvg-num='661' tvg-chno='661' tvg-name='Telemundo' tvg-id='131' group-title='DaddyLive',Telemundo
+http://192.168.1.100:5004/DaddyLive/watch/131
+#EXTINF:-1 channelID='40' tvg-num='663' tvg-chno='663' tvg-name='Tennis Channel' tvg-id='40' group-title='DaddyLive',Tennis Channel
+http://192.168.1.100:5004/DaddyLive/watch/40
+#EXTINF:-1 channelID='337' tvg-num='679' tvg-chno='679' tvg-name='TLC' tvg-id='337' group-title='DaddyLive',TLC
+http://192.168.1.100:5004/DaddyLive/watch/337
+#EXTINF:-1 channelID='698' tvg-num='680' tvg-chno='680' tvg-name='TMC Channel USA' tvg-id='698' group-title='DaddyLive',TMC Channel USA
+http://192.168.1.100:5004/DaddyLive/watch/698
+#EXTINF:-1 channelID='338' tvg-num='688' tvg-chno='688' tvg-name='TNT USA' tvg-id='338' group-title='DaddyLive',TNT USA
+http://192.168.1.100:5004/DaddyLive/watch/338
+#EXTINF:-1 channelID='340' tvg-num='689' tvg-chno='689' tvg-name='Travel Channel' tvg-id='340' group-title='DaddyLive',Travel Channel
+http://192.168.1.100:5004/DaddyLive/watch/340
+#EXTINF:-1 channelID='341' tvg-num='690' tvg-chno='690' tvg-name='TruTV USA' tvg-id='341' group-title='DaddyLive',TruTV USA
+http://192.168.1.100:5004/DaddyLive/watch/341
+#EXTINF:-1 channelID='111' tvg-num='691' tvg-chno='691' tvg-name='TSN1' tvg-id='111' group-title='DaddyLive',TSN1
+http://192.168.1.100:5004/DaddyLive/watch/111
+#EXTINF:-1 channelID='112' tvg-num='692' tvg-chno='692' tvg-name='TSN2' tvg-id='112' group-title='DaddyLive',TSN2
+http://192.168.1.100:5004/DaddyLive/watch/112
+#EXTINF:-1 channelID='113' tvg-num='693' tvg-chno='693' tvg-name='TSN3' tvg-id='113' group-title='DaddyLive',TSN3
+http://192.168.1.100:5004/DaddyLive/watch/113
+#EXTINF:-1 channelID='114' tvg-num='694' tvg-chno='694' tvg-name='TSN4' tvg-id='114' group-title='DaddyLive',TSN4
+http://192.168.1.100:5004/DaddyLive/watch/114
+#EXTINF:-1 channelID='115' tvg-num='695' tvg-chno='695' tvg-name='TSN5' tvg-id='115' group-title='DaddyLive',TSN5
+http://192.168.1.100:5004/DaddyLive/watch/115
+#EXTINF:-1 channelID='66' tvg-num='696' tvg-chno='696' tvg-name='TUDN USA' tvg-id='66' group-title='DaddyLive',TUDN USA
+http://192.168.1.100:5004/DaddyLive/watch/66
+#EXTINF:-1 channelID='660' tvg-num='697' tvg-chno='697' tvg-name='TV ONE USA' tvg-id='660' group-title='DaddyLive',TV ONE USA
+http://192.168.1.100:5004/DaddyLive/watch/660
+#EXTINF:-1 channelID='132' tvg-num='723' tvg-chno='723' tvg-name='Univision' tvg-id='132' group-title='DaddyLive',Univision
+http://192.168.1.100:5004/DaddyLive/watch/132
+#EXTINF:-1 channelID='343' tvg-num='724' tvg-chno='724' tvg-name='USA Network' tvg-id='343' group-title='DaddyLive',USA Network
+http://192.168.1.100:5004/DaddyLive/watch/343
+#EXTINF:-1 channelID='344' tvg-num='729' tvg-chno='729' tvg-name='VH1 USA' tvg-id='344' group-title='DaddyLive',VH1 USA
+http://192.168.1.100:5004/DaddyLive/watch/344
+#EXTINF:-1 channelID='659' tvg-num='733' tvg-chno='733' tvg-name='VICE TV' tvg-id='659' group-title='DaddyLive',VICE TV
+http://192.168.1.100:5004/DaddyLive/watch/659
+#EXTINF:-1 channelID='394' tvg-num='737' tvg-chno='737' tvg-name='Weather Channel' tvg-id='394' group-title='DaddyLive',Weather Channel
+http://192.168.1.100:5004/DaddyLive/watch/394
+#EXTINF:-1 channelID='655' tvg-num='738' tvg-chno='738' tvg-name='WETV USA' tvg-id='655' group-title='DaddyLive',WETV USA
+http://192.168.1.100:5004/DaddyLive/watch/655
+#EXTINF:-1 channelID='392' tvg-num='741' tvg-chno='741' tvg-name='Win Sports+ Columbia' tvg-id='392' group-title='DaddyLive',Win Sports+ Columbia
+http://192.168.1.100:5004/DaddyLive/watch/392
+#EXTINF:-1 channelID='376' tvg-num='742' tvg-chno='742' tvg-name='WWE Network' tvg-id='376' group-title='DaddyLive',WWE Network
+http://192.168.1.100:5004/DaddyLive/watch/376
+#EXTINF:-1 channelID='763' tvg-num='746' tvg-chno='746' tvg-name='YES Network USA' tvg-id='763' group-title='DaddyLive',YES Network USA
+http://192.168.1.100:5004/DaddyLive/watch/763
