@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="News",CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International Europe 1
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us 1" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International Europe 1
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International Europe 2
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us 2" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International Europe 2
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International Europe 3
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us 3" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International Europe 3
 https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International Europe 4
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us 4" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International Europe 4
 https://d1yx2biofua75q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-agcuky3hp0j0j/index.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International Europe 5
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us 5" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International Europe 5
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-logo="" group-title="TV",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
@@ -33,12 +33,14 @@ http://143.244.60.30/CBSEAST/index.m3u8
 http://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="TBS" tvg-logo="" group-title="TV",TBS
 http://143.244.60.30/TBS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",WUSA 9 Washington DC News
+#EXTINF:-1 tvg-id="CBS Channel 9" tvg-logo="" group-title="News",WUSA 9 Washington DC News
 https://livevideo01.wusa9.com/hls/live/2015498/elvs/live.m3u8
 #EXTINF:-1 tvg-id="ABCWOLO.us" tvg-name="ABC_EAST" group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg",ABC (WOLO)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png",AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-id="AmericanHeroesChannel.us" group-title="TV" tvg-name="American Heroes Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/1200px-American_Heroes_Channel_logo.svg.png" group-title="Live Channels",American Heroes Channel
 http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
 
@@ -51,16 +53,19 @@ http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Boomerang.us" group-title="TV" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Live Channels",Boomerang
 http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+
 #EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce" group-title="TV" tvg-logo="https://storage.googleapis.com/btvwp-uploads/2018/02/5bfb1301-bounce_adjusted1.png",Bounce
 http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/CMT_2017_logo.png" group-title="Live Channels",CMT East
 http://fl3.moveonjoy.com/CMT/index.m3u8
+
 #EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC FHD" group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/CNBC_2023.svg" group-title="Live Channels",CNBC
 http://fl3.moveonjoy.com/CNBC/index.m3u8
 
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="COMEDY_CENTRAL" group-title="TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155",Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+
 #EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="COOKING" group-title="TV" tvg-logo="https://theme.zdassets.com/theme_assets/9513797/13b9e8f7ab03eaf955916952cb7de6790a655b50.png",Cooking Channel
 http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 
@@ -68,16 +73,14 @@ http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 
 
-#EXTINF:-1 tvg-id="FOXWFXT.us" tvg-name="FOX_EAST" group-title="TV" tvg-logo="https://static.wikia.nocookie.net/centralpark/images/5/55/FOX.png/revision/latest?cb=20200405065309",FOX (WFXT)
+#EXTINF:-1 tvg-id="FOX EAST" tvg-name="FOX_EAST" group-title="TV" tvg-logo="https://static.wikia.nocookie.net/centralpark/images/5/55/FOX.png/revision/latest?cb=20200405065309",FOX (WFXT)
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-
-
 
 #EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff TV" group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="Live Channels",Laff TV
 http://72.46.118.193/Laff/index.m3u8
 
 
-#EXTINF:-1 tvg-id="NBCWMAQ.us" tvg-name="NBC East" group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="Live Channels",NBC East (Chicago)
+#EXTINF:-1 tvg-id="NBCWMAQ.us" tvg-name="NBC East" group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="Live Channels",NBC East
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon East" group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/NICK2023.png" group-title="Live Channels",Nickelodeon East
@@ -91,6 +94,7 @@ http://fl3.moveonjoy.com/Pop_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS East" group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TBS_2020.svg" group-title="Live Channels",TBS East
 http://fl1.moveonjoy.com/TBS/index.m3u8
+
 #EXTINF:-1 tvg-id="TCM.us" tvg-name="TCM East" group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/TCM_2021.svg" group-title="Live Channels",TCM (Turner Classic Movies) East
 http://fl1.moveonjoy.com/TCM/index.m3u8
 
