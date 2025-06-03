@@ -1,67 +1,67 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="News",CNN USA (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="Live",CNN USA (720p) [Geo-blocked]
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International Europe 1 (720p)
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Live",CNN International Europe 1 (720p)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International Europe 2 (720p)
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Live",CNN International Europe 2 (720p)
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International Europe 3 (720p)
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Live",CNN International Europe 3 (720p)
 https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International Europe 4 (720p)
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Live",CNN International Europe 4 (720p)
 https://d1yx2biofua75q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-agcuky3hp0j0j/index.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International Europe 5 (720p)
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Live",CNN International Europe 5 (720p)
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
-#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2021_35/3502557/msnbc-logo.png" group-title="Live Channels",MSNBC
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2021_35/3502557/msnbc-logo.png" group-title="Live",MSNBC
 http://fl3.moveonjoy.com/MSNBC/index.m3u8
-#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2021_35/3502557/msnbc-logo.png" group-title="News",MSNBC 2
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2021_35/3502557/msnbc-logo.png" group-title="Live",MSNBC 2
 https://ft.fbcdntv247.cfd/memfs/020da831-3bb1-4609-8f59-7aa72392ab15_output_0.m3u8
-#EXTINF:-1 tvg-id="TNT" tvg-logo="" group-title="TV",TNT
+#EXTINF:-1 tvg-id="TNT" tvg-logo="" group-title="Live",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="NewsNation" tvg-logo="" group-title="News",NewsNation East
+#EXTINF:-1 tvg-id="NewsNation" tvg-logo="" group-title="Live",NewsNation East
 http://212.102.60.231/NEWS_NATION/index.m3u8
-#EXTINF:-1 tvg-id="NewsNation" tvg-logo="" group-title="News",NewsNation
+#EXTINF:-1 tvg-id="NewsNation" tvg-logo="" group-title="Live",NewsNation
 http://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
-#EXTINF:-1 tvg-id="NBA TV" tvg-logo="" group-title="Sports",NFL Network
+#EXTINF:-1 tvg-id="NBA TV" tvg-logo="" group-title="Live",NFL Network
 http://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="" group-title="Sports",ESPN2
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="" group-title="Live",ESPN2
 http://fl3.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1 tvg-id="FS1" tvg-logo="" group-title="Sports",FS1
+#EXTINF:-1 tvg-id="FS1" tvg-logo="" group-title="Live",FS1
 http://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="Fox Business" tvg-logo="" group-title="News",Fox Buiness
+#EXTINF:-1 tvg-id="Fox Business" tvg-logo="" group-title="Live",Fox Buiness
 http://41.205.93.154/FOXBUSINESS/index.m3u8
-#EXTINF:-1 tvg-id="CNBC" tvg-logo="" group-title="News",CNBC
+#EXTINF:-1 tvg-id="CNBC" tvg-logo="" group-title="Live",CNBC
 http://fl3.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 tvg-id="CNBC" tvg-logo="" group-title="News",CNBC UK
+#EXTINF:-1 tvg-id="CNBC" tvg-logo="" group-title="Live",CNBC UK
 https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
-#EXTINF:-1 tvg-id="ABC" tvg-logo="" group-title="TV",ABC
+#EXTINF:-1 tvg-id="ABC" tvg-logo="" group-title="Live",ABC
 http://143.244.60.30/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="ABCWOLO.us" tvg-name="ABC_EAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg",ABC (WOLO)
+#EXTINF:-1 tvg-id="ABCWOLO.us" tvg-name="ABC_EAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Live",ABC (WOLO)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="FOX" tvg-logo="" group-title="TV",FOX
+#EXTINF:-1 tvg-id="FOX" tvg-logo="" group-title="Live",FOX
 http://143.244.60.30/FOX_EAST/index.m3u8
-#EXTINF:-1 tvg-id="FOXWFXT.us" tvg-name="FOX_EAST" tvg-logo="https://static.wikia.nocookie.net/centralpark/images/5/55/FOX.png/revision/latest?cb=20200405065309",FOX (WFXT)
+#EXTINF:-1 tvg-id="FOXWFXT.us" tvg-name="FOX_EAST" tvg-logo="https://static.wikia.nocookie.net/centralpark/images/5/55/FOX.png/revision/latest?cb=20200405065309" group-title="Live",FOX (WFXT)
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 tvg-id="FOX Memphis" tvg-logo="" group-title="TV",FOX Memphis
+#EXTINF:-1 tvg-id="FOX Memphis" tvg-logo="" group-title="News",FOX Memphis
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="NBC" tvg-logo="" group-title="Sports",NBC
+#EXTINF:-1 tvg-id="NBC" tvg-logo="" group-title="Live",NBC
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="NBC" tvg-logo="" group-title="Sports",NBC
+#EXTINF:-1 tvg-id="NBC" tvg-logo="" group-title="Live",NBC
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="NBC" tvg-logo="" group-title="Sports",NBC
 https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
-#EXTINF:-1 tvg-id="CBS" tvg-logo="" group-title="Sports",CBS
+#EXTINF:-1 tvg-id="CBS" tvg-logo="" group-title="Live",CBS
 http://143.244.60.30/CBSEAST/index.m3u8
-#EXTINF:-1 tvg-id="CBSWBZ.us" tvg-name="CBSEAST" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png",CBS (WBZ)
+#EXTINF:-1 tvg-id="CBSWBZ.us" tvg-name="CBSEAST" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png" group-title="Live",CBS (WBZ)
 http://fl3.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-logo="" group-title="Sports",NBA TV
 http://41.205.93.154:80/NBA/index.m3u8
-#EXTINF:-1 tvg-id="FS1" tvg-logo="" group-title="Sports",FS1
+#EXTINF:-1 tvg-id="FS1" tvg-logo="" group-title="Live",FS1
 http://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="FS1" tvg-logo="" group-title="Sports",CBS Sports Network
+#EXTINF:-1 tvg-id="FS1" tvg-logo="" group-title="Live",CBS Sports Network
 http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Fox Weather" tvg-logo="" group-title="News",Fox Weather
 http://247wlive.foxweather.com/stream/index.m3u8
-#EXTINF:-1 tvg-id="TBS" tvg-logo="" group-title="TV",TBS
+#EXTINF:-1 tvg-id="TBS" tvg-logo="" group-title="Live",TBS
 http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",WUSA 9 Washington DC News
 https://livevideo01.wusa9.com/hls/live/2015498/elvs/live.m3u8
