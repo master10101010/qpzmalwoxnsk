@@ -45,20 +45,18 @@ http://fl4.moveonjoy.com/CNBC/index.m3u8
 https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
 #EXTINF:-1 tvg-id="ABC" tvg-logo="" group-title="Live",ABC
 http://143.244.60.30/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="ABCWOLO.us" tvg-name="ABC_EAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Live",ABC (WOLO)
+#EXTINF:-1 tvg-id="ABCWOLO.us" tvg-name="ABC_EAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Live",ABC
 http://fl4.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="ABC Tampa" tvg-logo="" group-title="Live",ABC Tampa
 https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
 #EXTINF:-1 tvg-id="FOX" tvg-logo="" group-title="Live",FOX
 http://143.244.60.30/FOX_EAST/index.m3u8
-#EXTINF:-1 tvg-id="FOXWFXT.us" tvg-name="FOX_EAST" tvg-logo="https://static.wikia.nocookie.net/centralpark/images/5/55/FOX.png/revision/latest?cb=20200405065309" group-title="Live",FOX (WFXT)
+#EXTINF:-1 tvg-id="FOXWFXT.us" tvg-name="FOX_EAST" tvg-logo="https://static.wikia.nocookie.net/centralpark/images/5/55/FOX.png/revision/latest?cb=20200405065309" group-title="Live",FOX
 http://fl4.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="FOX West Palm Beach" tvg-logo="" group-title="Live",FOX West Palm Beach
 https://fl1.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
 #EXTINF:-1 tvg-id="FOX Memphis" tvg-logo="" group-title="News",FOX Memphis
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="NBC" tvg-logo="" group-title="Live",NBC
-http://fl4.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="NBC" tvg-logo="" group-title="Live",NBC
 http://fl4.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="NBC U.S. Virgin Islands" tvg-logo="" group-title="Sports",NBC U.S. Virgin Islands
@@ -69,7 +67,7 @@ https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
 https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
 #EXTINF:-1 tvg-id="CBS" tvg-logo="" group-title="Live",CBS
 http://143.244.60.30/CBSEAST/index.m3u8
-#EXTINF:-1 tvg-id="CBSWBZ.us" tvg-name="CBSEAST" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png" group-title="Live",CBS (WBZ)
+#EXTINF:-1 tvg-id="CBSWBZ.us" tvg-name="CBSEAST" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png" group-title="Live",CBS
 http://fl4.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:-1 tvg-id="CBS West Palm Beach" tvg-logo="" group-title="Live",CBS West Palm Beach
 https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
