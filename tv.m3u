@@ -5,14 +5,11 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Live",CNN International Europe 2 (720p)
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Live",CNN International Europe 3 (720p)
-https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Live",CNN International Europe 4 (720p)
-https://d1yx2biofua75q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-agcuky3hp0j0j/index.m3u8
+
 #EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Live",CNN International Europe 5 (720p)
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="" group-title="Live",MSNBC
-https://fl31.moveonjoy.com/MSNBC/index.m3u8
+https://fl1.moveonjoy.com/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="" group-title="Live",MSNBC 2
 https://ft.fbcdntv247.cfd/memfs/020da831-3bb1-4609-8f59-7aa72392ab15_output_0.m3u8
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="" group-title="Live",MSNBC
@@ -24,7 +21,7 @@ https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 tvg-id="Fox News" tvg-logo="" group-title="Live",Fox News
 http://23.237.104.106:8080/USA_FOX_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="Fox News EAST" tvg-logo="" group-title="Live",Fox News EAST
-https://fl31.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="NewsMax" tvg-logo="" group-title="Live",NewsMax
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-logo="" group-title="Live",NFL Network
@@ -64,7 +61,7 @@ http://143.244.60.30/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="ABC" tvg-name="ABC_EAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Live",ABC
 https://fl61.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="ABC Tampa" tvg-logo="" group-title="Live",ABC Tampa
-https://fl31..moveonjoy.com/FL_Tampa_ABC/index.m3u8
+https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
 #EXTINF:-1 tvg-id="FOX" tvg-logo="" group-title="Live",FOX
 http://143.244.60.30/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="FOX" tvg-name="FOX_EAST" tvg-logo="https://static.wikia.nocookie.net/centralpark/images/5/55/FOX.png/revision/latest?cb=20200405065309" group-title="Live",FOX
@@ -72,7 +69,11 @@ https://fl31.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="FOX SD" tvg-logo="" group-title="Live",FOX SD
 https://fl1.moveonjoy.com/FOX/index.m3u8
 #EXTINF:-1 tvg-id="FOX West Palm Beach" tvg-logo="" group-title="Live",FOX West Palm Beach
-https://fl31..moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
+https://fl1.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
+#EXTINF:-1 tvg-id="FOX New York" tvg-logo="" group-title="Live",FOX New York
+https://livetv-fa.tubi.video/wnyw/index_1.m3u8
+#EXTINF:-1 tvg-id="FOX DC" tvg-logo="" group-title="Live",FOX DC
+https://livetv-fa.tubi.video/wttg/index_1.m3u8
 #EXTINF:-1 tvg-id="FOX Memphis" tvg-logo="" group-title="News",FOX Memphis
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="NBC" tvg-name="NBC_EAST"tvg-logo="" group-title="Live",NBC
@@ -83,18 +84,14 @@ https://fl1.moveonjoy.com/NBC/index.m3u8
 https://fl1.moveonjoy.com/FL_Miami_NBC/index.m3u8
 #EXTINF:-1 tvg-id="NBC New York" tvg-logo="" group-title="Live",NBC New York
 https://fl61.moveonjoy.com/NY_New_York_NBC/index.m3u8
-#EXTINF:-1 tvg-id="NBC U.S. Virgin Islands" tvg-logo="" group-title="Sports",NBC U.S. Virgin Islands
-https://fl31..moveonjoy.com/Virgin_Islands_NBC/index.m3u8
 #EXTINF:-1 tvg-id="NBC Tampa" tvg-logo="" group-title="Sports",NBC Tampa
-https://fl31..moveonjoy.com/FL_Tampa_NBC/index.m3u8
+https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
 #EXTINF:-1 tvg-id="CBS" tvg-logo="" group-title="Live",CBS
 http://143.244.60.30/CBSEAST/index.m3u8
 #EXTINF:-1 tvg-id="CBS" tvg-name="CBS_EAST" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png" group-title="Live",CBS
 https://fl7.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:-1 tvg-id="CBS West Palm Beach" tvg-logo="" group-title="Live",CBS West Palm Beach
-https://fl31..moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
-#EXTINF:-1 tvg-id="NBA TV" tvg-logo="" group-title="Sports",NBA TV
-http://41.205.93.154:80/NBA/index.m3u8
+https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-logo="" group-title="Live",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="FS1" tvg-logo="" group-title="Live",FS1
@@ -106,13 +103,11 @@ http://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="TBS" tvg-logo="" group-title="Live",TBS
 http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 tvg-id="CW Orlando" tvg-logo="" group-title="Live",CW Orlando
-https://fl31..moveonjoy.com/CW_ORLANDO/index.m3u8
+https://fl1.moveonjoy.com/CW_ORLANDO/index.m3u8
 #EXTINF:-1 tvg-id="CW Tampa" tvg-logo="" group-title="Live",CW Tampa
-https://fl31..moveonjoy.com/FL_Tampa_CW44/index.m3u8
+https://fl1.moveonjoy.com/FL_Tampa_CW44/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",WUSA 9 Washington DC News
 https://livevideo01.wusa9.com/hls/live/2015498/elvs/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",FOX 5 DC
-https://dcs-live-uc1.mp.lura.live/server/play/50ZElMBFVlmQuo7G/rendition.m3u8?track=video-2&anvsid=m177626910-n6e936d7cfbc5eadfc5893b4f8a503775&ts=1737949524&anvtrid=b513648b681fc777a9aada2ad65682d7
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",FOX 23 Tulsa News
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",FOX 13 News Memphis
@@ -346,7 +341,7 @@ https://fl31.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="MOTORTREND.us" tvg-name="MotorTrend" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Motor_Trend.svg/revision/latest?cb=20180410190357" group-title="Live Channels",MotorTrend
 https://fl31.moveonjoy.com/MOTOR_TREND/index.m3u8
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2021_35/3502557/msnbc-logo.png" group-title="Live Channels",MSNBC
-https://fl31.moveonjoy.com/MSNBC/index.m3u8
+https://fl1.moveonjoy.com/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Live Channels",MTV East
 https://fl31.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 tvg-id="MTV2.us" tvg-name="MTV2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/MTV2_logo_2013.svg" group-title="Live Channels",MTV2 East
@@ -453,3 +448,13 @@ https://fl31.moveonjoy.com/WE_TV/index.m3u8
 https://fl31.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="YouTube" tvg-name="YouTube" tvg-logo="" group-title="Live",YouTube
 \\192.168.1.100\sharedfolder1\youtube_non_server2.m3u
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Live",CNN International Europe 3 (720p)
+https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="Live",CNN International Europe 4 (720p)
+https://d1yx2biofua75q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-agcuky3hp0j0j/index.m3u8
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="" group-title="Live",MSNBC 2
+https://ft.fbcdntv247.cfd/memfs/020da831-3bb1-4609-8f59-7aa72392ab15_output_0.m3u8
+#EXTINF:-1 tvg-id="NBC U.S. Virgin Islands" tvg-logo="" group-title="Sports",NBC U.S. Virgin Islands
+https://fl31.moveonjoy.com/Virgin_Islands_NBC/index.m3u8
+#EXTINF:-1 tvg-id="NBA TV" tvg-logo="" group-title="Sports",NBA TV
+http://41.205.93.154:80/NBA/index.m3u8
